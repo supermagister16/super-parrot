@@ -16,7 +16,7 @@ intents.guilds = True
 intents.members = True
 
 Prefix = "<" #you need to declare a prefix to run the bot in order to be able to change the prefix - Who made this ?
-TOKEN = 'MTEzMzUwOTAyNTc0OTgwMzE1MA.G-Of9k.z_-fyfCm8JspwTxSTJkYejWjwHBlSEZ6rxeVl8' #should be in a .env file, but I cba to make one rn
+TOKEN = '' #should be in a .env file, but I cba to make one rn, so ima just delete it for github :D
 
 
 for k in range(0, 50):
