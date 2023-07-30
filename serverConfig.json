@@ -1,0 +1,18 @@
+{
+    "server": {
+        "982963585749758032": {
+            "prefix": "ttt",
+            "server_permissions": [
+                "ADMINISTRATOR",
+                "MANAGE_GUILD"
+            ]
+        },
+        "765225882025197588": {
+            "prefix": "<",
+            "server_permissions": [
+                "ADMINISTRATOR",
+                "MANAGE_GUILD"
+            ]
+        }
+    }
+}
